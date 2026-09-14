@@ -370,5 +370,5 @@ Educational project — internship submission. Free to use for learning purposes
 
 **[Sushant Shelar]**
 Data Engineering Intern
-- Github:   [](https://github.com/sushantshelar2707-ui/Cognifyz-L1-Task-1))
+- Github:   (https://github.com/sushantshelar2707-ui/Cognifyz-L1-Task-1)
 - LinkedIn: [linkedin.com/in/sushant-s-924bb5352](linkedin.com/in/sushant-s-924bb5352)
