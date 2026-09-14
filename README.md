@@ -3,6 +3,11 @@
 > A four-level, end-to-end data-engineering project on Indian railway train-schedule data —
 > built with **Python & pandas** as part of my Data Engineering internship.
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![pandas](https://img.shields.io/badge/pandas-2.x-orange)
+![Notebook](https://img.shields.io/badge/Notebook-Jupyter%20%7C%20Colab-yellow)
+![Status](https://img.shields.io/badge/Level%201-✔%20complete-brightgreen)
+
 ---
 
 ## Overview
@@ -355,16 +360,16 @@ df.head()
 
  *Optional text cell:* ** Level 1 Complete**
 
-## 📄 License
+## License
 
 Educational project — internship submission. Free to use for learning purposes.
 
 ---
 
-## 👤 Author
+## Author
 
-**[Sushant She]**
+**[Sushant Shelar]**
 Data Engineering Intern
 
-- GitHub: [github.com/your-username](https://github.com/your-username)
+- GitHub: [github.com/your-username]([://github.chttpsom/your-username](https://github.com/sushantshelar2707-ui/Cognifyz-L1-Task-1))
 - LinkedIn: [linkedin.com/in/sushant-s-924bb5352](linkedin.com/in/sushant-s-924bb5352)
